@@ -87,7 +87,7 @@
           </span>
       </div>
       <div class="step3">
-        <a href="/thanks/2016">
+        <a href="/">
         <img src="img/btn_return.png" alt="">
         </a>
       </div>
